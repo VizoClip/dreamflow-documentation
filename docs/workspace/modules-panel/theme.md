@@ -23,7 +23,7 @@ When you update your theme files, the Theme module automatically refreshes to re
 
 :::
 
-### Dark Mode
+### Switch Theme Mode
 
 Dreamflow makes it easy to design and preview your app in both Light Mode and Dark Mode. In the Theme panel, you can select Dark Mode from the toggle icon. When you switch modes, Dreamflow automatically applies the corresponding color palettes, allowing you to check readability, contrast, and overall aesthetics in real time.
 

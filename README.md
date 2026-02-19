@@ -26,7 +26,7 @@ It features a clean design, fast performance, and a mobile-friendly experience.
 ---
 
 ## 👤 Author
-**Cabdi Model**  
+**apdi rahman Muhammad Ali Garaad**  
 GitHub: https://github.com/VizoClip
 
 ⭐ Haddii aad jeceshahay mashruucan, fadlan Star saar!
